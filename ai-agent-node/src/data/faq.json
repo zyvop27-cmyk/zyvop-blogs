@@ -1,0 +1,27 @@
+[
+  {
+    "id": "faq-returns",
+    "question": "What is your return policy?",
+    "answer": "Unused items can be returned within 30 days of delivery for a full refund. Open a return from the orders page and print the prepaid label."
+  },
+  {
+    "id": "faq-shipping-time",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3 to 5 business days. Express shipping arrives in 1 to 2 business days."
+  },
+  {
+    "id": "faq-cancel-order",
+    "question": "Can I cancel an order after placing it?",
+    "answer": "Orders can be cancelled for free within 1 hour of placing them, as long as they have not entered processing yet."
+  },
+  {
+    "id": "faq-payment-methods",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards, PayPal, and Apple Pay. Wire transfer is available for orders over $5,000."
+  },
+  {
+    "id": "faq-international",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 40 countries. International orders may be subject to customs fees charged by the destination country."
+  }
+]

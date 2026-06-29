@@ -1,0 +1,26 @@
+{
+  "ORD-1001": {
+    "status": "shipped",
+    "carrier": "UPS",
+    "trackingNumber": "1Z999AA10123456784",
+    "estimatedDelivery": "2026-07-02"
+  },
+  "ORD-1002": {
+    "status": "processing",
+    "carrier": null,
+    "trackingNumber": null,
+    "estimatedDelivery": "2026-07-05"
+  },
+  "ORD-1003": {
+    "status": "delivered",
+    "carrier": "FedEx",
+    "trackingNumber": "789123456789",
+    "estimatedDelivery": "2026-06-20"
+  },
+  "ORD-FAIL": {
+    "status": "simulate-outage",
+    "carrier": null,
+    "trackingNumber": null,
+    "estimatedDelivery": null
+  }
+}
