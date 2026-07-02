@@ -1,0 +1,21 @@
+{
+  "name": "magic-link-auth",
+  "version": "1.0.0",
+  "description": "Passwordless magic link authentication in Node.js with Redis, Nodemailer, and JWT.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.2",
+    "jsonwebtoken": "^9.0.3",
+    "nodemailer": "^9.0.3",
+    "redis": "^6.1.0"
+  }
+}
